@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "isochron-fingerprint: geometric fingerprints of neuronal models from isochron foliations"
+authors:
+  - family-names: Paes
+    given-names: Thaisse Dias
+    orcid: "https://orcid.org/0009-0006-2429-413X"
+  - family-names: Lima
+    given-names: João Marcos Xavier de
+    orcid: "https://orcid.org/0009-0000-6076-3294"
+  - family-names: Pereira Júnior
+    given-names: Antônio
+    orcid: "https://orcid.org/0000-0002-0808-1058"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "A Geometric Framework for Characterizing Classical Neuronal Models Using Isochron Foliations"
+  authors:
+    - family-names: Paes
+      given-names: Thaisse Dias
+    - family-names: Lima
+      given-names: João Marcos Xavier de
+    - family-names: Pereira Júnior
+      given-names: Antônio
+  collection-title: "Proceedings of the Brazilian Congress on Biomedical Engineering (CBEB 2026), IEEE"
+  year: 2026
